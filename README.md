@@ -10,4 +10,5 @@ The results of the models are evaluated using classification reports, confusion 
 To use GenrePredict, you can train the models with your dataset and evaluate their performance. The provided code snippets in the Training and Evaluation section can be used as a reference for implementation.
 
 ## Data
+![image](https://github.com/user-attachments/assets/ce3c7031-11d7-4610-b257-63d8cb4c3645)
 ![image](https://github.com/user-attachments/assets/dd3884ce-08b6-444f-a4d6-e13597914777)
